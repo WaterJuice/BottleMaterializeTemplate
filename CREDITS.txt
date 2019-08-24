@@ -1,0 +1,14 @@
+Components used in this project (FreeOid):
+==========================================
+
+Materialize 1.0.0 - https://materializecss.com/
+License: MIT
+Copyright (c) 2014-2018 Materialize
+
+Material Design Icons 3.0.1 - https://github.com/google/material-design-icons/
+License: Apache License Version 2.0
+Copyright (c) 2016 Google
+
+Bottle 0.12.17 - https://bottlepy.org/
+License: MIT
+Copyright (c) 2016, Marcel Hellkamp.
